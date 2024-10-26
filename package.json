@@ -1,0 +1,12 @@
+{
+  "name": "blijax-stockbot-main",
+  "version": "1.0.0",
+  "description": "Blijax is a multipurpose AI-powered web application whose purpose is targeted at providing financial advice. - About Blijax:     - How did we come up with the idea?         - We were interested in the stock market, and decided to create an assistant who could help us, as well as other people.     - Where did we come up with the name?         - Each character in the name \"Blijax\" is the first intial of each of our team members' names. They were ordered in a way such that it would be easy to pronounce.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

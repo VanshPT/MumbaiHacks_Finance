@@ -1,0 +1,5 @@
+.env
+**/__pycache__/
+.history
+python_env
+myenv
